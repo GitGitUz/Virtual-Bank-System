@@ -1,6 +1,6 @@
 # Virtual-Bank-System
 
-//this program implements a client/server system to create a virtual bank system that can deal with many users and perform different tasks
+//this program implements a client/server system to create a virtual bank that can deal with many users and perform different tasks
 
 Two executables are created
   bankingServer
